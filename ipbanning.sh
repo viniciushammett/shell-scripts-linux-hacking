@@ -1,3 +1,6 @@
+# This script bans any IP in the /24 subnet for 192.168.1.0 starting at 2
+# It assumes 1 is the router and does not ban IPs .20, .21, .22
+
 !/bin/sh
 
 i=2
